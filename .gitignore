@@ -1,0 +1,5 @@
+﻿# Ignore client data and reports
+*.csv
+*.xlsx
+__pycache__/
+.venv/
